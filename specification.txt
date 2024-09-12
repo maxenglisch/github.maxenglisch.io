@@ -1,0 +1,48 @@
+Explanation of which HTML, CSS and JS tags and properties I used + Bootstrap
+
+
+HTML
+
+<div>
+I used this tag alot. For containers, cards and everything almost.
+
+<h1>
+I used this for the biggest headings.
+
+<p>
+I use this for paragraphs with newlines
+
+<a>
+This is for links and mail adress
+
+<li>
+I use this for list elements
+
+<ul>
+this for unordered lists
+
+<nav>
+for navbar
+
+<strong>
+for strong text in descriptions
+
+<footer>
+for footer
+
+<button>
+for button
+
+CSS
+
+background-color: for bg color
+margin-left/right/bottom etc. : for margin to make things more evenly spaced
+text-align: to align text
+border: for better spacing
+font-size: for better text looks
+
+JS
+I used the blink function for some retro touch
+
+Bootstrap
+I used it alot for navbar, buttons, cards and the like
